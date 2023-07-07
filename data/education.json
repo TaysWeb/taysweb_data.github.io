@@ -1,27 +1,25 @@
 {
   "education" : [
     {
-       "id" : 1 ,
-        "title" : "",
-        "year" : "",
-        
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        "title" : "Alpine Primary",
+        "years" : "2009-2016",
+        "desc"  : "This was my first few years on school or as they call it the beginning stages which was 7 years of my life located in a small suburb in Mitchell's Plain "    
+    } ,
+    {
+      "title" : "Belgravia High Secondary",
+      "years" : "2016-2021",
+      "desc"  : "In my high school years I studied the subject Information Technology for 2 years and that's where my love for coding came about"    
+    },
+    {
+      "title" : "College of Cape Town - Crawford Campus",
+      "years" : "Jan-(2022) - Dec(2022)",
+      "desc"  : "I continued my love for coding by studying further by studying Web Applications at a TVET college where I was doing my Front-end skills for designing a website which I gained my all my Front-end knowledge"
+    },
+    {
+      "title" : "Life choices Academy",
+      "years" : "2023-current",
+      "desc"  : "I'm currently doing a Full-stack Developer 6-month course and a internship that follows for another 6 months where I am taking my pervious knowledge a step further further "  
+   }
   ]
 
 }
