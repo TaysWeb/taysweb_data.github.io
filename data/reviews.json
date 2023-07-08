@@ -1,0 +1,24 @@
+{
+    "reviews" : [
+        {
+         "name" : "Abdoel Samaai" ,
+          "review" : " Tara is the most dedicated person I've known & very much a perfectionist with all that she's does."
+        },
+        {
+            "name" : "Amber-Kaye" ,
+            "review" : "She's super determined to finish any task that's handed to her even if she has to make some sacrifices which she will."
+        },
+        {
+            "name" : "laeeq Majal" ,
+            "review" : "All i can say is that she is super confident and puts her best foot forward in everything she does."
+         },
+         {
+            "name" : "Lyle Kepkey" ,
+            "review" : "A very focused person even though I do not know her that well but all I can say is that she is one determined. "
+        },
+        {
+            "name": "Ridhaa Gabier" ,
+            "review" : "All in all, Tara is an invaluable asset to have on any team and I would highly recommend her to any organization looking for a dedicated and creative individual."
+        }
+    ]
+}

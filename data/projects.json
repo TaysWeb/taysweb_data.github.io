@@ -31,16 +31,16 @@
     {
         "name": "LoopTech" , 
         "image_url": "  " ,
-        "repo_link" :  " https://github.com/TaysWeb/VUE_EOMP" ,
+        "repo_link" :  "https://github.com/TaysWeb/LoopTech" ,
         "desc" : " " ,
-        "tools_used" : "HTML, CSS, C# , Bootstrap "
+        "tools_used" : "HTML, CSS, C# ,ASP.NET, Bootstrap "
     },
     {
         "name": "HydrateLife" , 
         "image_url": "  " ,
-        "repo_link" :  " https://github.com/TaysWeb/VUE_EOMP" ,
+        "repo_link" :  "https://github.com/TaysWeb/Hydrate-Life" ,
         "desc" : " " ,
-        "tools_used" : "HTML, CSS, C# , Bootstrap "
+        "tools_used" : "HTML, CSS & Bootstrap "
     }
 
   ]
