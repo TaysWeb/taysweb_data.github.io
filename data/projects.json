@@ -2,44 +2,38 @@
   "projects" : [
     {
       "name": "BoostTech" , 
-      "image_url": "  " ,
+      "image_url": " https://i.postimg.cc/4N52m0qm/boostech.png " ,
       "repo_link" : "https://github.com/TaysWeb/BoostTech " ,
-      "desc" : " " ,
       "tools_used" : "HTML, CSS & Bootstrap"
     },
     {
         "name": "TJ_Cafe" , 
-        "image_url": "  " ,
+        "image_url": " https://i.postimg.cc/LXxFks0Z/EOMP-HOME.jpg " ,
         "repo_link" :  " https://github.com/TaysWeb/VUE_EOMP" ,
-        "desc" : " " ,
         "tools_used" : "HTML, CSS, Bootstrap & Javascript  "  
     },
     {
         "name": "BMI Calculator" , 
-        "image_url": "  " ,
+        "image_url": " https://i.postimg.cc/KYdJ6hks/bmi.png " ,
         "repo_link" :  "https://github.com/TaysWeb/BMI_Calculator" ,
-        "desc" : " " ,
         "tools_used" : "HTML, CSS & Javascript "
     },
     {
         "name": "Temperature Converter " , 
-        "image_url": "  " ,
+        "image_url": "https://i.postimg.cc/zGv73GTc/temp-converter.png  " ,
         "repo_link" :  "https://github.com/TaysWeb/converter_2" ,
-        "desc" : " " ,
         "tools_used" : "HTML, CSS & Javascript "
     },
     {
         "name": "LoopTech" , 
-        "image_url": "  " ,
+        "image_url": " https://i.postimg.cc/6qGw9XY2/looptech.png " ,
         "repo_link" :  "https://github.com/TaysWeb/LoopTech" ,
-        "desc" : " " ,
         "tools_used" : "HTML, CSS, C# ,ASP.NET, Bootstrap "
     },
     {
         "name": "HydrateLife" , 
-        "image_url": "  " ,
+        "image_url": "https://i.postimg.cc/9X4q4wkT/Hydrate-Home-Mock-Up.jpg " ,
         "repo_link" :  "https://github.com/TaysWeb/Hydrate-Life" ,
-        "desc" : " " ,
         "tools_used" : "HTML, CSS & Bootstrap "
     }
 
