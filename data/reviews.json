@@ -1,5 +1,4 @@
-{
-    "reviews" : [
+[
         {
             "id": 1,
          "name" : "Abdoel Samaai" ,
@@ -24,5 +23,4 @@
             "review" : "A very focused person even though I do not know her that well but all I can say is that she is one determined. "
         }
    
-    ]  
-}
+]  
