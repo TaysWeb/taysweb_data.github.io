@@ -1,5 +1,5 @@
-{
-  "projects" : [
+[
+  
     {
        "id": 1,
       "name": "BoostTech" , 
@@ -43,5 +43,5 @@
         "tools_used" : "HTML, CSS & Bootstrap "
     }
 
+
   ]
-}
