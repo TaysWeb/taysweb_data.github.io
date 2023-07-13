@@ -17,13 +17,8 @@
       "title" : "College of Cape Town - Crawford Campus",
       "years" : "Jan-(2022) - Dec(2022)",
       "desc"  : "I continued my love for coding by studying further by studying Web Applications at a TVET college where I was doing my Front-end skills for designing a website which I gained my all my Front-end knowledge"
-    },
-    {
-      "id": 4,
-      "title" : "Life choices Academy",
-      "years" : "2023-current",
-      "desc"  : "I'm currently doing a Full-stack Developer 6-month course and a internship that follows for another 6 months where I am taking my pervious knowledge a step further further "  
-   }
+    }
+
   ],
   "experience" : [
     {
@@ -32,6 +27,12 @@
         "years" : "2022-current",
         "desc"  : "My ui/ux journey started when I learned my Front-end knowledge about Websites which is never-ending to this day.  " 
     },
+    {
+      "id": 4,
+      "title" : "Life choices Academy",
+      "years" : "2023-current",
+      "desc"  : "I'm currently doing a Full-stack Developer 6-month course and a internship that follows for another 6 months where I am taking my pervious knowledge a step further further "  
+   },
     {
       "id": 2,
       "title" : " Junior Full-Stack Developer",
