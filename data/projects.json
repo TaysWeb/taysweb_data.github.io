@@ -6,7 +6,8 @@
       "image_url": " https://i.postimg.cc/4N52m0qm/boostech.png " ,
       "alt": "boostech.png",
       "repo_link" : "https://github.com/TaysWeb/BoostTech " ,
-      "tools_used" : "HTML, CSS & Bootstrap"
+      "tools_used" : "HTML, CSS & Bootstrap",
+      "date":" June 2023"
     },
     {
         "id": 2,
@@ -14,7 +15,8 @@
         "image_url": " https://i.postimg.cc/LXxFks0Z/EOMP-HOME.jpg " ,
         "alt": "EOMP-HOME.png",
         "repo_link" :  " https://github.com/TaysWeb/VUE_EOMP" ,
-        "tools_used" : "HTML, CSS, Bootstrap & Javascript  "  
+        "tools_used" : "HTML, CSS, Bootstrap & Javascript  "  ,
+        "date":" July 2023"
     },
     {   
         "id": 3,
@@ -22,7 +24,8 @@
         "image_url": " https://i.postimg.cc/KYdJ6hks/bmi.png " ,
         "alt": "bmi.png",
         "repo_link" :  "https://github.com/TaysWeb/BMI_Calculator" ,
-        "tools_used" : "HTML, CSS & Javascript "
+        "tools_used" : "HTML, CSS & Javascript ",
+        "date":" May 2023"
     },
     { 
         "id": 4,
@@ -30,7 +33,8 @@
         "image_url": "https://i.postimg.cc/zGv73GTc/temp-converter.png  " ,
         "alt": "converter.png",
         "repo_link" :  "https://github.com/TaysWeb/converter_2" ,
-        "tools_used" : "HTML, CSS & Javascript "
+        "tools_used" : "HTML, CSS & Javascript ",
+           "date":" May 2023"
     },
     { 
        "id": 5,
@@ -38,7 +42,8 @@
         "image_url": " https://i.postimg.cc/6qGw9XY2/looptech.png " ,
         "alt": "looptech.png",
         "repo_link" :  "https://github.com/TaysWeb/LoopTech" ,
-        "tools_used" : "HTML, CSS, C# ,ASP.NET, Bootstrap "
+        "tools_used" : "HTML, CSS, C# ,ASP.NET, Bootstrap ", 
+        "date":" Novmeber 2022"
     },
     {
         "id": 6,
@@ -46,7 +51,8 @@
         "image_url": "https://i.postimg.cc/9X4q4wkT/Hydrate-Home-Mock-Up.jpg " ,
         "alt": "Hydrate-Home-Mock-Up.jpg",
         "repo_link" :  "https://github.com/TaysWeb/Hydrate-Life" ,
-        "tools_used" : "HTML, CSS & Bootstrap "
+        "tools_used" : "HTML, CSS & Bootstrap ",
+        "date":" October 2022"
     }
 
 
